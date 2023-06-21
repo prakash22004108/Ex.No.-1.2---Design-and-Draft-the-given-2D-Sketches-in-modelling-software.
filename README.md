@@ -1,4 +1,4 @@
-![ex 2 jpg](https://github.com/prakash22004108/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/113497032/df086526-0b69-4dcc-961b-b1b8b9938287)
+
 # Ex.No.-1.2-Design and Draft the given 2D Sketches in modelling software.
 
 ## AIM
